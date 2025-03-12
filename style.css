@@ -1,0 +1,318 @@
+.nn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    img{
+      border-radius: 30px ;
+      
+      }
+  }
+  .and{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    img{
+        border-radius: 30px;
+        width: 800px;
+        height: 500px;
+    }
+  }
+  .and_joy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+        border-radius: 30px;
+        width: 800px;
+        height: 500px;
+    }
+
+  }
+
+  .bux{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 800px;
+            height: 500px;
+        }
+}
+.bux_joy{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 800px;
+            height: 500px;
+        }
+
+  }
+  .far{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+        border-radius: 30px;
+        width: 800px;
+        height: 500px;
+    }
+
+  }
+  .far_joy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+        border-radius: 30px;
+        width: 800px;
+        height: 500px;
+    }
+
+  }
+  .nam{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+        border-radius: 30px;
+        width: 800px;
+        height: 500px;
+    }
+
+  }
+  .nam_joy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+        border-radius: 30px;
+        width: 800px;
+        height: 500px;
+    }
+
+  }
+  .qoqon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+        border-radius: 30px;
+        width: 1000px;
+        height: 500px;
+    }
+
+  }
+  .qoqon_joy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+        border-radius: 30px;
+        width: 800px;
+        height: 500px;
+    }
+    
+  }
+  .xiva{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+        border-radius: 30px;
+        width: 800px;
+        height: 500px;
+    }
+
+  }
+  .xiva_joy{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 600px;
+            height: 500px;
+        }
+    }
+  .jiz{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 800px;
+            height: 400px;
+        }
+
+    }
+
+  .jiz_joy{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 600px;
+            height: 500px;
+        }
+  }
+  .nav{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 800px;
+            height: 400px;
+        }
+
+    }
+    .nav_joy{
+      display: flex;
+          justify-content: center;
+          align-items: center;
+          img{
+              border-radius: 30px;
+              width: 600px;
+              height: 300px;
+          }
+   }
+   .qash{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 800px;
+            height: 400px;
+        }
+
+    }
+    .qash_joy{
+      display: flex;
+          justify-content: center;
+          align-items: center;
+          img{
+              border-radius: 30px;
+              width: 600px;
+              height: 400px;
+          }
+   }
+   .sur{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 800px;
+            height: 400px;
+        }
+
+    }
+    .sur_joy{
+      display: flex;
+          justify-content: center;
+          align-items: center;
+          img{
+              border-radius: 30px;
+              width: 600px;
+              height: 400px;
+          }
+   }
+   .sam{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 800px;
+            height: 400px;
+        }
+
+    }
+    .sam_joy{
+      display: flex;
+          justify-content: center;
+          align-items: center;
+          img{
+              border-radius: 30px;
+              width: 600px;
+              height: 400px;
+          }
+   }
+   .sir{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 800px;
+            height: 400px;
+        }
+
+    }
+    .sir_joy{
+      display: flex;
+          justify-content: center;
+          align-items: center;
+          img{
+              border-radius: 30px;
+              width: 600px;
+              height: 400px;
+          }
+   }
+   .tosh{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 800px;
+            height: 400px;
+        }
+
+    }
+    .tosh_joy{
+      display: flex;
+          justify-content: center;
+          align-items: center;
+          img{
+              border-radius: 30px;
+              width: 600px;
+              height: 400px;
+          }
+   }
+   .xor{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            border-radius: 30px;
+            width: 800px;
+            height: 400px;
+        }
+
+    }
+    .xor_joy{
+      display: flex;
+          justify-content: center;
+          align-items: center;
+          img{
+              border-radius: 30px;
+              width: 600px;
+              height: 400px;
+          }
+   }
+
+
+  
+
+  
+
+
+
